@@ -1,0 +1,17 @@
+{
+  "name": "booking-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^7.11.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotevn": "^17.2.1",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.1",
+    "nodemon": "^3.1.10"
+  }
+}
